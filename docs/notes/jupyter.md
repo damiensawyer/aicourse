@@ -1,7 +1,8 @@
 ### What is Jupyter Notebook?
 
 Jupyter Notebook is an open-source web application for interactive computing and data visualization. It supports multiple programming languages like Python, Julia, and R. 
-
+## Links
+[Rise - turns a Jupyter Notebook into a presentation](https://rise.readthedocs.io/)
 ### Components
 
 1. **Kernel**: Executes code, returns output.
