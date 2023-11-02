@@ -28,6 +28,7 @@ You can also get them free online with places like Kaggle.com
 
 [book](https://github.com/fastai/fastbook)
 [course](https://course.fast.ai/Lessons/lesson1.html)
+[Quizzes related to book](https://aiquizzes.com/)
 
 ## Glossary
 
